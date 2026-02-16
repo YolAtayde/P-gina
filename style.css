@@ -1,0 +1,32 @@
+
+.heading
+{
+font-size:x-large;
+width: 100%;
+margin: 0px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+background-image: url('https://image2url.com/r2/default/images/1771271395053-2c8aadcf-329a-4517-ae6d-1a68c042aa3b.jpg');
+background-size: cover;
+background-position: center;
+}
+
+#titulo
+{
+    font-size:x-large;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+#pregunta
+{
+    font-size:large;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+#correcto
